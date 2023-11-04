@@ -1,0 +1,53 @@
+﻿D:\Visual Studio Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BattleCity_course.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bitmap.cpp
+  BitmapManager.cpp
+  Bullet.cpp
+E:\С++\GameWin32\BattleCity_course\Bullet.cpp(48,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Bullet.cpp(49,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Bullet.cpp(55,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Bullet.cpp(55,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DisplayInformation.cpp
+E:\С++\GameWin32\BattleCity_course\DisplayInformation.cpp(11,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\DisplayInformation.cpp(12,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\DisplayInformation.cpp(36,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\DisplayInformation.cpp(45,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\DisplayInformation.cpp(78,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Enemy.cpp
+E:\С++\GameWin32\BattleCity_course\Enemy.cpp(11,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Enemy.cpp(81,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Enemy.cpp(82,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Enemy.cpp(89,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Enemy.cpp(89,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+E:\С++\GameWin32\BattleCity_course\Game.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Game.cpp(171,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Game.cpp(252,26): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Game.cpp(286,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Game.cpp(287,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameObject.cpp
+E:\С++\GameWin32\BattleCity_course\GameObject.cpp(89,53): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+E:\С++\GameWin32\BattleCity_course\GameObject.cpp(89,53): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+E:\С++\GameWin32\BattleCity_course\GameObject.cpp(89,101): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+E:\С++\GameWin32\BattleCity_course\GameObject.cpp(89,101): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+  Level.cpp
+E:\С++\GameWin32\BattleCity_course\Level.cpp(95,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(95,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(95,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(95,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(134,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(135,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(136,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Level.cpp(137,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  MapTile.cpp
+E:\С++\GameWin32\BattleCity_course\MapTile.cpp(12,14): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+E:\С++\GameWin32\BattleCity_course\MapTile.cpp(13,13): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+E:\С++\GameWin32\BattleCity_course\MapTile.cpp(14,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+E:\С++\GameWin32\BattleCity_course\MapTile.cpp(15,18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Player.cpp
+E:\С++\GameWin32\BattleCity_course\Player.cpp(126,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Player.cpp(127,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Player.cpp(179,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\С++\GameWin32\BattleCity_course\Player.cpp(180,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  BattleCity_course.vcxproj -> E:\С++\GameWin32\x64\Debug\WinGame.exe
